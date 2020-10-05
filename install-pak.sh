@@ -10,3 +10,4 @@ sudo apt install -y grub-pc-bin
 sudo apt install -y grub-efi-amd64-bin
 sudo apt install -y mtools
 sudo apt install -y dctrl-tools tasksel-data
+echo 'run ". ckecking_info.sh" '
