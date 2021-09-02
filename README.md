@@ -1,5 +1,5 @@
 # custom-debian10-kde
-A strip to help you create your own customize Debian base distribution.
+A script to help you create your own customise Debian base distribution.
 
 1. You will need root permite to start.
 2. First run the install_pak to install all the packages need for the
